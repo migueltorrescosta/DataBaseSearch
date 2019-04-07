@@ -30,7 +30,7 @@ This table contains :
 - contact: email used to reach out to this team.
 - role: The purpose of the team inside the company
 
-### Column Informaton
+### Column Information
 
 - column_short_description:
 - ground_truth_table: The table that contains the "ground truth" of this table. If different tables with this information disagree on the information contain, the ground_truth_table should be taken as the valid value.
