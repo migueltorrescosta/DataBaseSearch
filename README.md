@@ -31,7 +31,7 @@ This table contains
 
 **Kept as:** Markdown files, one per owner
 
-This table contains:
+This table contains :
 - owner: the name of the team.
 - contact: email used to reach out to this team.
 - role: The purpose of the team inside the company
